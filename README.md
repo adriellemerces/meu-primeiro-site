@@ -1,7 +1,7 @@
-## 🐾 Clínica Veterinária [PetLife]
+## <h1>🐾 Clínica Veterinária [PetLife]</h1>
 Bem-vindo ao repositório do primeiro site desenvolvido por mim! Este projeto foi criado com o objetivo de explorar conceitos fundamentais de HTML, CSS e JavaScript, apresentando uma interface funcional para uma clínica veterinária fictícia.
 
-## 🎯 Objetivo do Projeto
+## <h2>🎯 Objetivo do Projeto</h2>
 Este site busca simular a página oficial de uma clínica veterinária, destacando:
 
 Atendimento personalizado para pets.
