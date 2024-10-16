@@ -8,20 +8,20 @@ Atendimento personalizado para pets.
 Botões funcionais (como agendamento, contato e navegação entre páginas).
 Apresentação clara dos serviços e informações da clínica.
 
-## ✨ Funcionalidades
-Home Page: Apresentação da clínica e boas-vindas aos visitantes.
-Serviços: Exibe uma lista de serviços oferecidos (consultas, vacinas, banho & tosa).
-Contato: Formulário para o usuário entrar em contato ou solicitar agendamento.
-Botões Funcionais:
-Redirecionamento entre páginas.
-Acesso rápido para WhatsApp.
+## <h2>✨ Funcionalidades</h2>
+Home Page: Apresentação da clínica e boas-vindas aos visitantes.<br>
+Serviços: Exibe uma lista de serviços oferecidos (consultas, vacinas, banho & tosa).<br>
+Contato: Formulário para o usuário entrar em contato ou solicitar agendamento.<br>
+Botões Funcionais:<br>
+Redirecionamento entre páginas.<br>
+Acesso rápido para WhatsApp.<br>
 
-## 🛠️ Tecnologias Utilizadas
-HTML5: Estrutura das páginas.
-CSS3: Estilização e responsividade do site.
-JavaScript: Adiciona interatividade aos botões e formulários.
+## <h2>🛠️ Tecnologias Utilizadas</h2>
+HTML5: Estrutura das páginas.<br>
+CSS3: Estilização e responsividade do site.<br>
+JavaScript: Adiciona interatividade aos botões e formulários.<br>
 
-## 📸 Prévia do Site
+## <h2>📸 Prévia do Site</h2>
 Adicione aqui algumas capturas de tela do site para que os visitantes do repositório possam visualizar a interface.
 
 ![pet life](https://github.com/user-attachments/assets/013c9a57-61f9-4930-960c-6c2cfa002844)
