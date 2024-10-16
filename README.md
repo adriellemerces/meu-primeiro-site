@@ -5,7 +5,7 @@ Bem-vindo ao repositório do primeiro site desenvolvido por mim! Este projeto fo
 Este site busca simular a página oficial de uma clínica veterinária, destacando:
 
 Atendimento personalizado para pets.
-Botões funcionais (como agendamento, contato e navegação entre páginas).
+Botões funcionais (como agendamento, e navegação entre páginas).<br>
 Apresentação clara dos serviços e informações da clínica.
 
 ## <h2>✨ Funcionalidades</h2>
